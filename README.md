@@ -1,4 +1,4 @@
-# PODS ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kwanhooo.PODS)
+# PODS ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKwanhooo%2FPODS&countColor=%23263759)
 
 ### —— Practices on Data Structures
 
