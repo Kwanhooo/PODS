@@ -5,7 +5,7 @@
 
 #include "sequence_list.h"
 
-int main() {
+int sequence_list::test_sequence_list() {
     SequenceList list;
     init(list);
     print(list);
@@ -38,3 +38,4 @@ int main() {
 
     return 0;
 }
+

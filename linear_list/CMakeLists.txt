@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(linear_list
         sequence_list.cpp
-        sequence_list.h)
+        sequence_list.h
+        main.cpp
+)
