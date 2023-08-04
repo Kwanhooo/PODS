@@ -33,13 +33,12 @@ git push
 
 ![GitHub](https://img.shields.io/github/license/Kwanhooo/PODS?style=for-the-badge)
 
-![Website](https://img.shields.io/website?label=prod-services&style=for-the-badge&url=https://pods.0xcafebabe.cn)
+![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://www.0xcafebabe.cn)
 
 ---
 
 ### 开发状态
 
-![GitHub deployments](https://img.shields.io/github/deployments/Kwanhooo/PODS/Production?label=Dev-Env%20deploy&style=for-the-badge)
 
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/Kwanhooo/PODS/main?label=master%20%E5%88%86%E6%94%AF%E6%A3%80%E6%9F%A5&style=for-the-badge)
 

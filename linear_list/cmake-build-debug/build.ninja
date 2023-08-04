@@ -61,6 +61,12 @@ build CMakeFiles/linear_list.dir/main.cpp.o: CXX_COMPILER__linear_list_unscanned
   OBJECT_DIR = CMakeFiles/linear_list.dir
   OBJECT_FILE_DIR = CMakeFiles/linear_list.dir
 
+build CMakeFiles/linear_list.dir/linked_list.cpp.o: CXX_COMPILER__linear_list_unscanned_Debug /home/kwanho/Workspace/Workspace-C/PODS/linear_list/linked_list.cpp || cmake_object_order_depends_target_linear_list
+  DEP_FILE = CMakeFiles/linear_list.dir/linked_list.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/linear_list.dir
+  OBJECT_FILE_DIR = CMakeFiles/linear_list.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target linear_list
@@ -69,7 +75,7 @@ build CMakeFiles/linear_list.dir/main.cpp.o: CXX_COMPILER__linear_list_unscanned
 #############################################
 # Link the executable linear_list
 
-build linear_list: CXX_EXECUTABLE_LINKER__linear_list_Debug CMakeFiles/linear_list.dir/sequence_list.cpp.o CMakeFiles/linear_list.dir/main.cpp.o
+build linear_list: CXX_EXECUTABLE_LINKER__linear_list_Debug CMakeFiles/linear_list.dir/sequence_list.cpp.o CMakeFiles/linear_list.dir/main.cpp.o CMakeFiles/linear_list.dir/linked_list.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/linear_list.dir
   POST_BUILD = :

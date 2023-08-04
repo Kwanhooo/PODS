@@ -7,4 +7,7 @@ add_executable(linear_list
         sequence_list.cpp
         sequence_list.h
         main.cpp
+        linked_list.cpp
+        linked_list.h
+        element.h
 )

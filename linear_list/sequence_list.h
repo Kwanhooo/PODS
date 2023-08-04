@@ -11,25 +11,13 @@
  */
 
 #include <iostream>
+#include "element.h"
 
 #define MAX_CAPACITY 10
 
 namespace sequence_list {
     inline int test_sequence_list();
 
-    // 数据节点
-    typedef struct Element {
-        int number;
-
-        // 重载运算符
-        bool operator==(const Element &other) const {
-            return this->number == other.number;
-        }
-
-        bool operator!=(const Element &other) const {
-            return this->number != other.number;
-        }
-    } Element;
 
     // 静态分配顺序表
     typedef struct {
@@ -64,10 +52,10 @@ namespace sequence_list {
 
     // 打印
     inline void print(SequenceList list) {
-        std::cout << std::endl << "当前表长：" << list.length << std::endl;
         for (int i = 0; i < list.length; ++i) {
-            std::cout << list.data[i].number << std::endl;
+            std::cout << list.data[i].number << " ";
         }
+        std::cout << std::endl;
     }
 
     // 按位查找
