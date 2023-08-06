@@ -21,22 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e025ebe5-de25-46a9-9e95-b9a97be197e5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/.idea/stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/element.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/linked_stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/linked_stack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/sequence_stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stack/sequence_stack.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/linear_list" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/linear_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +45,7 @@
     <option name="minorVersion" value="2" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": -1
 }]]></component>
   <component name="ProjectId" id="2TVmT8YbSwz1pjM5ooZKT00u1Fp" />
@@ -104,6 +91,7 @@
       <workItem from="1691162609893" duration="485000" />
       <workItem from="1691309035453" duration="25000" />
       <workItem from="1691309210528" duration="609000" />
+      <workItem from="1691313129535" duration="8000" />
     </task>
     <servers />
   </component>
