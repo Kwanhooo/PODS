@@ -70,6 +70,22 @@ namespace linked_list {
         }
     }
 
+    // 插入到第i个位置
+    inline void insert(LinkedList &head, Element e, int pos) {
+        Node *node = new Node;
+        node->data = e;
+        Node *p = head;
+        int count = 0;
+        while (p->next != nullptr && count < pos - 1) {
+            p = p->next;
+            count++;
+        }
+        if (count == pos - 1) {
+            node->next = p->next;
+            p->next = node;
+        }
+    }
+
     // 头插法
     inline void insert_head(LinkedList &head, Element e) {
         Node *node = new Node;

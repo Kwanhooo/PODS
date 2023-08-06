@@ -21,23 +21,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e025ebe5-de25-46a9-9e95-b9a97be197e5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/element.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/element.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/linked_stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/linked_stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/sequence_stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/sequence_stack.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e6a532a83f48d3158be5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-04T09-39-12-0634.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-linear_list-Debug-7052587626765045f293.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/linear_list" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/linear_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequence_list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sequence_list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequence_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/sequence_list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked_list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +58,9 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="2" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2TVmT8YbSwz1pjM5ooZKT00u1Fp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,16 +80,12 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="linear_list" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="linear_list" TARGET_NAME="linear_list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="linear_list" RUN_TARGET_NAME="linear_list">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -107,6 +101,9 @@
       <option name="presentableId" value="Default" />
       <updated>1691136629418</updated>
       <workItem from="1691136630980" duration="3141000" />
+      <workItem from="1691162609893" duration="485000" />
+      <workItem from="1691309035453" duration="25000" />
+      <workItem from="1691309210528" duration="609000" />
     </task>
     <servers />
   </component>
@@ -118,5 +115,9 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

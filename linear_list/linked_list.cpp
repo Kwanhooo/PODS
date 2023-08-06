@@ -6,9 +6,6 @@
 #include <iostream>
 #include "linked_list.h"
 
-#include <iostream>
-#include "linked_list.h"
-
 int linked_list::test_linked_list() {
     LinkedList list;
     init(list);
@@ -47,6 +44,10 @@ int linked_list::test_linked_list() {
         }
     }
 
+    std::cout << "使用 insert 插入元素到第2个位置：" << std::endl;
+    insert(list, Element{100}, 2);
+    print(list);
+
     std::cout << "删除元素：" << std::endl;
     for (int i = 1; i <= 10; i++) {
         remove(list, Element{i});
@@ -60,3 +61,4 @@ int linked_list::test_linked_list() {
 
     return 0;
 }
+

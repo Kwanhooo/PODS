@@ -30,3 +30,6 @@
 2	214	1691144309615371145	CMakeFiles/linear_list.dir/sequence_list.cpp.o	deb254fea4d15d92
 1	240	1691144309639371597	CMakeFiles/linear_list.dir/main.cpp.o	814be9cb9aa4f42c
 240	330	1691144309731373331	linear_list	4511210ec2178c3c
+1	214	1691162898746619712	CMakeFiles/linear_list.dir/linked_list.cpp.o	a2c0226fcb363b78
+1	255	1691162898790621553	CMakeFiles/linear_list.dir/main.cpp.o	814be9cb9aa4f42c
+256	331	1691162898862624566	linear_list	4511210ec2178c3c
