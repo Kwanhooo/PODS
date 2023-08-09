@@ -14,4 +14,6 @@ add_executable(tree main.cpp
         parent_model_tree.cpp
         parent_model_tree.h
         child_model_tree.cpp
-        child_model_tree.h)
+        child_model_tree.h
+        sibling_model_tree.cpp
+        sibling_model_tree.h)

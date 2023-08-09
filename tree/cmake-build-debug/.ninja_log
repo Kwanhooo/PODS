@@ -1,14 +1,8 @@
 # ninja log v5
 1	182	1691570450145749763	CMakeFiles/tree.dir/parent_model_tree.cpp.o	86b934d5d7469c32
 1	188	1691568909021016280	CMakeFiles/tree.dir/threaded_binary_tree.cpp.o	590719782b5bb849
-204	296	1691570450261748337	tree	1fb383d15073c9ee
-1	184	1691487539614185626	CMakeFiles/tree.dir/sequence_binary_tree.cpp.o	4fb87d4e7dc4c42b
-0	204	1691570450169749468	CMakeFiles/tree.dir/main.cpp.o	e606c6fb8e2ef278
-1	222	1691487539654184123	CMakeFiles/tree.dir/sequence_binary_tree_zero.cpp.o	338bb8a8d9b0b15b
-0	219	1691571603141163417	CMakeFiles/tree.dir/main.cpp.o	e606c6fb8e2ef278
-1	225	1691571603145163459	CMakeFiles/tree.dir/child_model_tree.cpp.o	c8f0fea7a890c1db
-1	230	1691571610377238510	CMakeFiles/tree.dir/main.cpp.o	e606c6fb8e2ef278
-230	320	1691571610469239467	tree	eed25549e491d4de
-1	185	1691571754878789563	CMakeFiles/tree.dir/child_model_tree.cpp.o	c8f0fea7a890c1db
-1	222	1691571754914789960	CMakeFiles/tree.dir/main.cpp.o	e606c6fb8e2ef278
 222	291	1691571754982790711	tree	eed25549e491d4de
+1	184	1691487539614185626	CMakeFiles/tree.dir/sequence_binary_tree.cpp.o	4fb87d4e7dc4c42b
+1	222	1691571754914789960	CMakeFiles/tree.dir/main.cpp.o	e606c6fb8e2ef278
+1	185	1691571754878789563	CMakeFiles/tree.dir/child_model_tree.cpp.o	c8f0fea7a890c1db
+1	222	1691487539654184123	CMakeFiles/tree.dir/sequence_binary_tree_zero.cpp.o	338bb8a8d9b0b15b
