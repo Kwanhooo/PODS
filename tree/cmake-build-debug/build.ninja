@@ -79,6 +79,12 @@ build CMakeFiles/tree.dir/parent_model_tree.cpp.o: CXX_COMPILER__tree_unscanned_
   OBJECT_DIR = CMakeFiles/tree.dir
   OBJECT_FILE_DIR = CMakeFiles/tree.dir
 
+build CMakeFiles/tree.dir/child_model_tree.cpp.o: CXX_COMPILER__tree_unscanned_Debug /home/kwanho/Workspace/Workspace-C/PODS/tree/child_model_tree.cpp || cmake_object_order_depends_target_tree
+  DEP_FILE = CMakeFiles/tree.dir/child_model_tree.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/tree.dir
+  OBJECT_FILE_DIR = CMakeFiles/tree.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target tree
@@ -87,7 +93,7 @@ build CMakeFiles/tree.dir/parent_model_tree.cpp.o: CXX_COMPILER__tree_unscanned_
 #############################################
 # Link the executable tree
 
-build tree: CXX_EXECUTABLE_LINKER__tree_Debug CMakeFiles/tree.dir/main.cpp.o CMakeFiles/tree.dir/sequence_binary_tree.cpp.o CMakeFiles/tree.dir/sequence_binary_tree_zero.cpp.o CMakeFiles/tree.dir/threaded_binary_tree.cpp.o CMakeFiles/tree.dir/parent_model_tree.cpp.o
+build tree: CXX_EXECUTABLE_LINKER__tree_Debug CMakeFiles/tree.dir/main.cpp.o CMakeFiles/tree.dir/sequence_binary_tree.cpp.o CMakeFiles/tree.dir/sequence_binary_tree_zero.cpp.o CMakeFiles/tree.dir/threaded_binary_tree.cpp.o CMakeFiles/tree.dir/parent_model_tree.cpp.o CMakeFiles/tree.dir/child_model_tree.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/tree.dir
   POST_BUILD = :
