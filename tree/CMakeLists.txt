@@ -10,4 +10,6 @@ add_executable(tree main.cpp
         sequence_binary_tree_zero.cpp
         sequence_binary_tree_zero.h
         threaded_binary_tree.cpp
-        threaded_binary_tree.h)
+        threaded_binary_tree.h
+        parent_model_tree.cpp
+        parent_model_tree.h)
