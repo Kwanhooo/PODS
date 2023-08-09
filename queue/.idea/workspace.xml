@@ -21,15 +21,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e7c43b7-6985-4158-81aa-4cc682c099e5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../string/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/.idea/string.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../string/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/.idea/tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/element.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/sequence_binary_tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/sequence_binary_tree.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../string/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +58,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kwanho/Workspace/Workspace-C/PODS/queue",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kwanho/Workspace/Workspace-C/PODS/queue&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -98,6 +100,8 @@
       <workItem from="1691313429297" duration="3410000" />
       <workItem from="1691384810094" duration="15000" />
       <workItem from="1691391122390" duration="2428000" />
+      <workItem from="1691483995943" duration="3000" />
+      <workItem from="1691484007938" duration="6000" />
     </task>
     <servers />
   </component>
