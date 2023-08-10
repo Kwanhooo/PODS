@@ -1,0 +1,21 @@
+# ninja log v5
+1	194	1691651919750106642	CMakeFiles/tree_applications.dir/disjoint_set.cpp.o	12ce89984875de37
+215	286	1691651919846111623	tree_applications	b611e5f15a6ddff4
+1	208	1691579643320937465	CMakeFiles/tree_applications.dir/huffman_coding.cpp.o	2043d2517baa511f
+1	215	1691651919774107888	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+0	19	1691652024595230628	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+1	74	1691652024655233393	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+74	139	1691652024723236527	tree_applications	f384e7a8e743ba36
+1	39	1691652265441088947	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+1	220	1691652265625095669	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+2	64	1691652277729535541	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+2	230	1691652277901541761	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+1	69	1691652289757968252	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+0	248	1691652289937974697	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+1	68	1691652304634497508	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+1	228	1691652304798503308	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+1	28	1691652356672299961	CMakeFiles/tree_applications.dir/huffman_encoding.cpp.o	72243793c854ee42
+1	201	1691652356852306070	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+201	274	1691652356928308650	tree_applications	f384e7a8e743ba36
+0	189	1691652365396595064	CMakeFiles/tree_applications.dir/main.cpp.o	3c25295f36c1f530
+189	269	1691652365480597896	tree_applications	f384e7a8e743ba36

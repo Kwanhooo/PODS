@@ -18,10 +18,6 @@ namespace sibling_model_tree {
         struct TreeNode *first_child, *next_sibling;
     } TreeNode, *Tree;
 
-    typedef struct ForestNode {
-        Tree tree;
-        ForestNode *first_child, *next_sibling;
-    } ForestNode, *Forest;
 }
 
 #endif //TREE_SIBLING_MODEL_TREE_H
