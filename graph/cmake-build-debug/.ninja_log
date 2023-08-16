@@ -1,0 +1,5 @@
+# ninja log v5
+1	12	1692088419283104798	CMakeFiles/graph.dir/linked_list_graph.cpp.o	7d5c5e2d19a54148
+1	18	1692088419291104815	CMakeFiles/graph.dir/adjacency_matrix_graph.cpp.o	bf321d3e7f2aec1e
+0	303	1692088419575105430	CMakeFiles/graph.dir/main.cpp.o	4b4d076f052accb3
+303	374	1692088419647105586	graph	ce3fe243fa64d1b8
